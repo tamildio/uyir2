@@ -21,7 +21,7 @@ const AIChat: React.FC = () => {
   return (
     <div className="fixed bottom-0 left-0 lg:left-16 right-0 backdrop-blur-md bg-white/70 shadow-lg rounded-t-xl p-4">
       <div className="mb-4">
-        <h2 className="text-lg font-medium text-gray-900">AI Assistant</h2>
+        <h2 className="text-lg font-medium text-gray-900">AI Assistant jagadeesh</h2>
         <p className="text-sm text-gray-500">
           UyIr can assist you in understanding and reviewing your patient information.
         </p>
